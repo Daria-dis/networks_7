@@ -1,0 +1,13 @@
+{
+  "name": "networks_5.6",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
